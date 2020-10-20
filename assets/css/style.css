@@ -96,6 +96,7 @@ p {
     display: block;
     margin: auto;
     height: auto;
+    width: 100%;
 }
 
 .button_mobile_content {
