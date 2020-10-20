@@ -7,7 +7,7 @@ body {
 }
 
 ::selection {
-    background-color: #FF9900;
+    background-color: #fec107;
     color: #ffffff;
 }
 
@@ -65,7 +65,7 @@ footer {
 
 .quote {
     text-align: center;
-    color: #419f9e;
+    color: #b388fe;
     font-size: medium;
 }
 
@@ -75,7 +75,7 @@ i {
 }
 
 .i_herramientas {
-    color: #5BBFC0;
+    color: #b388fe;
 }
 
 .icono {
@@ -96,17 +96,13 @@ p {
     width: 100%;
 }
 
-ul {
-    list-style-type:none;
-}
-
 .button_mobile_content {
     display: flex; 
     justify-content: center;
 }
 
 .button_mobile {
-    background-color: #FF3D00 !important;
+    background-color: #c83643 !important;
     color: #ffffff !important;
     width: 50%;
     display: flex; 
@@ -114,7 +110,7 @@ ul {
 }
 
 .informacion {
-    border-left: #88c7c7 solid 20px;
+    border-left: #26cad3 solid 20px;
     padding: 5px 20px;
 }
 
@@ -122,7 +118,7 @@ h1 {
     background-color: #000000 !important;
     color: #ffffff;
     height: 100px;
-    width: 460px;
+    width: 380px;
     font-size: 3rem;
     text-transform: uppercase;
     text-align: start;
@@ -141,7 +137,7 @@ h2 {
     font-weight: 400;
     padding: 1rem;
     margin: 1rem;
-    border-left: #5BBFC0 solid 20px;
+    border-left: #b388fe solid 20px;
 }
 
 h3 {
