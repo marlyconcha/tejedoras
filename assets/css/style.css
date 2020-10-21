@@ -92,6 +92,11 @@ p {
     margin: 1rem 0rem;
 }
 
+.img {
+    display: block;
+    margin: auto;
+}
+
 .img_content {
     display: block;
     margin: auto;
