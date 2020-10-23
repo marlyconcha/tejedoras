@@ -100,7 +100,8 @@ p {
 .img_content {
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    display: flex; 
+    justify-content: center;
 }
 
 .button_mobile_content {
