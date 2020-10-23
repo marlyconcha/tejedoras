@@ -98,10 +98,9 @@ p {
 }
 
 .img_content {
+    margin-left: auto;
+    margin-right: auto;
     display: block;
-    margin: auto;
-    height: auto;
-    width: 100%;
 }
 
 .button_mobile_content {
