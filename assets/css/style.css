@@ -98,8 +98,6 @@ p {
 }
 
 .img_content {
-    display:block;
-    margin:auto;
     margin-left: auto;
     margin-right: auto;
     display: flex; 
@@ -108,7 +106,9 @@ p {
 }
 
 .img_content_large {
-
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .button_mobile_content {
